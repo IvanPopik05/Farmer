@@ -1,0 +1,6 @@
+
+=csharpsquid:S2933
+"Make '_player' 'readonly'.(íæÖ*8„×®®Ç0
+@csharpsquid:S2933"Make '_restZone' 'readonly'.(ïøº8‘¶ËÚÇ0
+Icsharpsquid:S2933" Make '_stateMachine' 'readonly'.(Ã¶¢´üÿÿÿÿ8—ˆ„Ç0
+€csharpsquid:S4487"WRemove this unread private field '_stateMachine' or refactor the code to use its value.(Ã¶¢´üÿÿÿÿ8…×®®Ç0
